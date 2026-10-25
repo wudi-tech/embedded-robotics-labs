@@ -1,0 +1,82 @@
+{
+  "copied_files": [
+    {
+      "component": "line_follower",
+      "file": "line-following/.gitignore",
+      "sha256": "8fd8bab41fc1e98b26573a3dcea907d49517a078b6bddc429d567577930fe4a8",
+      "bytes": 35
+    },
+    {
+      "component": "line_follower",
+      "file": "line-following/docs/CONTROL.md",
+      "sha256": "be5d9c648e3be9937b8fed7a30548a022586730bf45440ff8c62148a8b9939eb",
+      "bytes": 3429
+    },
+    {
+      "component": "line_follower",
+      "file": "line-following/docs/VALIDATION.md",
+      "sha256": "52823a88dfd84c19af6bd81157387ec061ecd261ba0b33cddbf591250c163942",
+      "bytes": 2571
+    },
+    {
+      "component": "line_follower",
+      "file": "line-following/docs/VERSIONS.md",
+      "sha256": "119ad1384389577e949d6d5f0e5d55789cc7a7b10c75b9dc8e76a803b7ca05ff",
+      "bytes": 3572
+    },
+    {
+      "component": "line_follower",
+      "file": "line-following/NOTICE.md",
+      "sha256": "8141d45c3a50272d855787ed8d75d4629b3d0582fbb3f919f5ecfc0ff5ab79d3",
+      "bytes": 1317
+    },
+    {
+      "component": "line_follower",
+      "file": "line-following/README.md",
+      "sha256": "9bfb7aa3e24221c378edda628ee9d9e3109c91bcc7136dd4717002336dc49859",
+      "bytes": 2230
+    },
+    {
+      "component": "line_follower",
+      "file": "line-following/source_manifest.json",
+      "sha256": "a0b57bef5a3e6097fcf07faa84f38b010b8849ba3955eaf279192fcc7ba8addc",
+      "bytes": 1481
+    },
+    {
+      "component": "line_follower",
+      "file": "line-following/src/main.c",
+      "sha256": "c6d85cadffe8252ee4a78573ed16b21bdf9b0f4dfbb24d8605b1f605cd863840",
+      "bytes": 955
+    },
+    {
+      "component": "line_follower",
+      "file": "line-following/src/type.c",
+      "sha256": "9f133591c1f79b5e57af6486ba4725f89552a5ec9db3105e444e8aab7af3c220",
+      "bytes": 9631
+    },
+    {
+      "component": "line_follower",
+      "file": "line-following/src/type.h",
+      "sha256": "9d322ebdaa85b2d3137f968d8d123cfe009cd12efe44cb90f3c10aab8818cf84",
+      "bytes": 1256
+    },
+    {
+      "component": "line_follower",
+      "file": "line-following/tests/host/headfile.h",
+      "sha256": "1bbdb6bf980a343bd72a0a4ef31514c405b43fc67dc9350c6fef3fb93efdd194",
+      "bytes": 999
+    },
+    {
+      "component": "line_follower",
+      "file": "line-following/tests/host/test_control.c",
+      "sha256": "714ebda98b2c84c3baf75bb0bdaa0e6104000008880d9604bb72a63c79a9fb48",
+      "bytes": 3564
+    },
+    {
+      "component": "line_follower",
+      "file": "line-following/tests/run_host_tests.py",
+      "sha256": "8a4c3d1431535cd7cb2893e27a68b4d48a02b1336aa0eb5efe8d702f5ef8780e",
+      "bytes": 2093
+    }
+  ]
+}

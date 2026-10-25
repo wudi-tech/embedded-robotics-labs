@@ -1,0 +1,29 @@
+{
+  "source_label": "2024 line-following course local archive",
+  "selected": [
+    {
+      "archive_path": "src/type.c",
+      "source_relative_path": "xunjiDemox3/xunjiDemox3/MDK/type.c",
+      "source_sha256": "9f133591c1f79b5e57af6486ba4725f89552a5ec9db3105e444e8aab7af3c220",
+      "archive_sha256": "9f133591c1f79b5e57af6486ba4725f89552a5ec9db3105e444e8aab7af3c220",
+      "operation": "byte-exact copy; original GB18030 comments preserved",
+      "ownership": "team application; individual line authorship not asserted"
+    },
+    {
+      "archive_path": "src/type.h",
+      "source_relative_path": "xunjiDemox3/xunjiDemox3/MDK/type.h",
+      "source_sha256": "9d322ebdaa85b2d3137f968d8d123cfe009cd12efe44cb90f3c10aab8818cf84",
+      "archive_sha256": "9d322ebdaa85b2d3137f968d8d123cfe009cd12efe44cb90f3c10aab8818cf84",
+      "operation": "byte-exact copy; original GB18030 comments preserved",
+      "ownership": "team application; individual line authorship not asserted"
+    },
+    {
+      "archive_path": "src/main.c",
+      "source_relative_path": "xunjiDemox3/xunjiDemox3/USER/src/main.c",
+      "source_sha256": "c6d85cadffe8252ee4a78573ed16b21bdf9b0f4dfbb24d8605b1f605cd863840",
+      "archive_sha256": "c6d85cadffe8252ee4a78573ed16b21bdf9b0f4dfbb24d8605b1f605cd863840",
+      "operation": "byte-exact copy; original GB18030 comments preserved",
+      "ownership": "team application; individual line authorship not asserted"
+    }
+  ]
+}
